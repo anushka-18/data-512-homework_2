@@ -102,7 +102,7 @@ Source: [Investopedia]( https://www.investopedia.com/terms/f/first-world.asp)
 <br>
 
 **2.	What (potential) sources of bias did you discover in the course of your data processing and analysis?** <br>
-When I started working with the data, I realised that the countries I expected to see on the list were not there, reason being that the dataset did not have political figures from those countries on the list. The selection bias seems to impact the overall results of the analysis. The present results seem to stem from a combination of population figures and the divide between English and non-English speaking nations. 
+When I started working with the data, I realised that the countries I expected to see on the list were not there, reason being that the dataset did not have political figures from those countries on the list. The selection, or sampling bias seems to impact the overall results of the analysis. The present results seem to stem from a combination of population figures and the divide between English and non-English speaking nations. 
 For instance, countries with small population (Southern European nations such as Andorra, Monenegro, Croatia) high a higher number of articles per capita as compared to countries with larger population (such as Asian countries of India, China, etc). <br>
 Furthermore, even within the Asian and African countries, the list dramatically changes between total articles and high-quality articles, as the poorer nations such as Pakistan, Uganda, Sudan, Nigeria make appearances on the list of countries with lowest number of per capita high-quality articles.
 
